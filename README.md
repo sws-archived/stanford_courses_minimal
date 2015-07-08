@@ -1,5 +1,5 @@
 #Stanford Courses Minimal Importer
-##### Version: 7.x-3.6
+##### Version: 7.x-1.x-dev
 
 Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)
 
